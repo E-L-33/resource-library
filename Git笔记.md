@@ -6,7 +6,7 @@
 
 ## 二、创建版本库
 
-安装完成后，需要在你的机器上初始化一下,不加的会在clone时报错，具体见**·问题·**栏
+安装完成后，需要在你的机器上初始化一下,不加的会在clone时报错，具体见 **问题** 栏 
 
 		~$:git config --global user.name "Your Name"
         	~$:git config --global user.email "Your Email"
